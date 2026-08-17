@@ -9,8 +9,8 @@ This GitHub is my hands-on portfolio projects where I set up, break, and fix rea
 - 🔧 [Network Troubleshooting Lab](https://github.com/danielpropass/network-troubleshooting-lab)
 - 🖥️ [Remote Desktop Support](https://github.com/danielpropass/remote-desktop-support)
 - 🎫 [Helpdesk Ticketing Simulation](https://github.com/danielpropass/helpdesk-ticketing-simulation)
-- 🪟 Windows Server & Microsoft 365 Admin — *coming soon*
-- ☁️ Cloud & Virtual Device Admin — *coming soon*
+- 🪟 Windows Server & Microsoft 365 Admin *coming soon*
+- ☁️ Cloud & Virtual Device Admin *coming soon*
 
 *(links will be added as each project is completed)*
 
