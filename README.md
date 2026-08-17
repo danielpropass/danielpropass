@@ -6,11 +6,11 @@ I'm working toward a career as an *IT Support Specialist*.
 This GitHub is my hands-on portfolio projects where I set up, break, and fix real IT systems (networks, Windows/AD environments, ticketing workflows, scripts, cloud admin) to build practical troubleshooting skills for MSP and helpdesk environments.
 
 ## 📌 Projects
-- 🔧 [Network Troubleshooting Lab](#) — diagnosing connectivity issues with ipconfig, ping, nslookup
-- 🖥️ [Remote Desktop Support](#) — remote support session simulation (Windows + macOS)
-- 🎫 [Helpdesk Ticketing Simulation](#) — simulated MSP ticket queue, triage, and resolution
-- 🪟 [Windows Server & Microsoft 365 Admin](#) — AD setup, GPOs, M365 tenant administration
-- ☁️ [Cloud & Virtual Device Admin](#) — Azure VM deployment and management
+- 🔧 [Network Troubleshooting Lab](https://github.com/danielpropass/network-troubleshooting-lab)
+- 🖥️ [Remote Desktop Support](https://github.com/danielpropass/remote-desktop-support)
+- 🎫 [Helpdesk Ticketing Simulation](https://github.com/danielpropass/helpdesk-ticketing-simulation)
+- 🪟 Windows Server & Microsoft 365 Admin — *coming soon*
+- ☁️ Cloud & Virtual Device Admin — *coming soon*
 
 *(links will be added as each project is completed)*
 
