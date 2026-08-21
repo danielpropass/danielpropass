@@ -1,4 +1,4 @@
-# Hi, I'm [Daniel] Amr Elsayed 👋
+# Hi, I'm [Denis] Amr Elsayed 👋
 
 I'm working toward a career as an *IT Support Specialist*.
 
@@ -23,5 +23,5 @@ This GitHub is my hands-on portfolio projects where I set up, break, and fix rea
 - PowerShell scripting for automation
 
 ## 📫 Contact
-email: danielpropass@gmail.com
+email: denisaeit@gmail.com
 Whastapp: +90 535 504 27 33
